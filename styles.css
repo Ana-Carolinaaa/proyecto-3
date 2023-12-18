@@ -1,0 +1,10 @@
+.fullAlto {
+    height: 100vh;
+}
+
+.menuLateral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
